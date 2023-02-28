@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<books>
+    <heading>Welcome To OUTR Library</heading>
+
+    <book>
+        <title>Title -: Java Programming</title>
+        <author>Author -: Rostereris</author>
+        <author>Author -: Rostereris</author>
+        <publisher>Publisher -: Wiley</publisher>
+        <edition>Edition -: 7</edition>
+        <price> Price -: 350</price>
+    </book>
+    <book>
+        <title>Title -: Internet World</title>
+        <author>Author -: Ditel</author>
+        <publisher>Publisher -: pearsons.gov.co</publisher>
+        <edition>Edition -: 4</edition>
+        <price> Price -: 800</price>
+    </book>
+    <book>
+        <title>Title -: Computer Organisation</title>
+        <author>Author -: Presion</author>
+        <publisher>Publisher -: sureil.co</publisher>
+        <edition>Edition -: 2</edition>
+        <price> Price -: 760</price>
+    </book>
+</books>
